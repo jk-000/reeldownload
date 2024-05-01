@@ -20,7 +20,7 @@ export function Navbar() {
         )}
       >
         <div className="hidden select-none text-xl font-extrabold uppercase md:block">
-          Instavid
+        ReelGram
         </div>
         <MobileNav className="md:hidden" />
         <div className="ml-auto flex items-center gap-4">
