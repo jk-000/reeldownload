@@ -10,7 +10,6 @@ const PrivacyPolicyPage = () => {
           (Policy) informs users that the website
           <span className="text-gray-900 dark:text-gray-500">
             {" "}
-            (https://insta-video-saver.vercel.app)
           </span>{" "}
           does not collect, store, or process any personal information. By using
           the Website or Service, you acknowledge that no personal information
@@ -35,47 +34,7 @@ const PrivacyPolicyPage = () => {
           other tracking technologies to collect information about your use of
           the Website and other websites, including your IP address, browser
           type, internet service provider, referring/exit pages, and date/time
-          stamp. For more information, please visit
-          <a
-            target="_blank"
-            href="https://www.privacypolicies.com/blog/privacy-policy-google-adsense/"
-            className="text-blue-600 hover:underline"
-          >
-            {" "}
-            privacypolicies.com{" "}
-          </a>
-          and
-          <a
-            target="_blank"
-            href="https://www.termsfeed.com/blog/privacy-policy-google-adsense/"
-            className="text-blue-600 hover:underline"
-          >
-            {" "}
-            termsfeed.com{" "}
-          </a>
-          .
-        </p>
-        <p className="mb-2">
-          <span className="font-semibold">2.2.</span> You may opt-out of
-          personalized advertising by visiting
-          <a
-            target="_blank"
-            href="https://adssettings.google.com/authenticated"
-            className="text-blue-600 hover:underline"
-          >
-            {" "}
-            Ads Settings{" "}
-          </a>
-          or by visiting
-          <a
-            target="_blank"
-            href="https://www.aboutads.info/"
-            className="text-blue-600 hover:underline"
-          >
-            {" "}
-            www.aboutads.info
-          </a>
-          .
+          stamp.
         </p>
       </section>
 
@@ -97,7 +56,7 @@ const PrivacyPolicyPage = () => {
         <p className="mb-2">
           <span className="font-semibold">5.1.</span> If you have any questions
           or concerns about this Policy, please contact the Website owner at{" "}
-          <span className="italic">riadh.azzoun@hotmail.com</span>.
+          <span className="italic">jenilkakadiya2@gmail.com</span>.
         </p>
       </section>
 

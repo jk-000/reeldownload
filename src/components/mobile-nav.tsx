@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 "use client";
 
 import React from "react";
@@ -31,8 +32,8 @@ export function MobileNav({ className }: { className?: string }) {
         </Button>
       </SheetTrigger>
       <SheetContent side="left">
-        <h2 className="mb-4 text-center text-lg font-semibold">
-          reelgram
+        <h2 className="flex justify-center mb-4">
+        <img src="./logo.png" alt="logo" width={120} height="auto"/>
         </h2>
         <ul className="mb-8 space-y-3">
           {siteLinks.map((link) => (
