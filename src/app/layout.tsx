@@ -70,17 +70,6 @@ export default function RootLayout({
             <Footer />
           </ReactQueryProvider>
         </ThemeProvider>
-      
-        <script type="text/javascript">
-	atOptions = {
-		'key' : 'decda1ba2fc254a8a65d34391cd20887',
-		'format' : 'iframe',
-		'height' : 300,
-		'width' : 160,
-		'params' : {}
-	};
-</script>
-<script type="text/javascript" src="//www.topcreativeformat.com/decda1ba2fc254a8a65d34391cd20887/invoke.js"></script>
       </body>
     </html>
   );
