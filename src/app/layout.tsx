@@ -35,7 +35,7 @@ export default function RootLayout({
       <head>
       <script type='text/javascript' src='//pl23229211.highcpmgate.com/6c/7d/1f/6c7d1fc65e4afb4ea22c9a7495dc0cf6.js'></script>
 
-      <script type='text/javascript' src='//pl23229241.highcpmgate.com/6f/98/e0/6f98e07ef4829be4f8cf42eb323c78ef.js'></script>
+        
 
 <script type="application/ld+json">
   {`
@@ -70,6 +70,8 @@ export default function RootLayout({
             <Footer />
           </ReactQueryProvider>
         </ThemeProvider>
+        <script>document.write(atob("PHNjcmlwdCBhc3luYz0iYXN5bmMiIGRhdGEtY2Zhc3luYz0iZmFsc2UiIHNyYz0iLy9iYWdlbHNldmVuLmNvbS9hMTY0MTY4ZTdkYmJkMzNlMjBmODc5MDUzY2JmMGVkZC9pbnZva2UuanMiPjwvc2NyaXB0Pgo8ZGl2IGlkPSJjb250YWluZXItYTE2NDE2OGU3ZGJiZDMzZTIwZjg3OTA1M2NiZjBlZGQiPjwvZGl2Pg=="));</script>
+        <script>document.write(atob("PHNjcmlwdCB0eXBlPSd0ZXh0L2phdmFzY3JpcHQnIHNyYz0nLy9iYWdlbHNldmVuLmNvbS83Zi9mMS9kZi83ZmYxZGY3ZTBkN2I3ZjEzZjc2NWNhYjQ3ODMxOGY2Mi5qcyc+PC9zY3JpcHQ+"));</script>
       </body>
     </html>
   );
