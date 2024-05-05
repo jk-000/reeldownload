@@ -36,6 +36,19 @@ export default function RootLayout({
       <script type='text/javascript' src='//pl23229211.highcpmgate.com/6c/7d/1f/6c7d1fc65e4afb4ea22c9a7495dc0cf6.js'></script>
 
       <script type='text/javascript' src='//pl23229241.highcpmgate.com/6f/98/e0/6f98e07ef4829be4f8cf42eb323c78ef.js'></script>
+
+<script type="application/ld+json">
+  {`
+    {
+      "@context": "http://schema.org",
+      "@type": "WebSite",
+      "name": "Instagram Downloader",
+      "url": "https://reelgram.online/",
+      "description": "Instagram Reels Video Downloader is an amazing tool for Instagram reels video download"
+    }
+  `}
+</script>
+        
       </head>
       <body
         className={cn(
@@ -54,10 +67,10 @@ export default function RootLayout({
             <main className="relative h-[calc(100vh-6rem)] overflow-y-auto px-2 sm:px-4">
               {children}
             </main>
-            <script type='text/javascript' src='//pl23229241.highcpmgate.com/6f/98/e0/6f98e07ef4829be4f8cf42eb323c78ef.js'></script>
             <Footer />
           </ReactQueryProvider>
         </ThemeProvider>
+        <script type='text/javascript' src='//pl23229241.highcpmgate.com/6f/98/e0/6f98e07ef4829be4f8cf42eb323c78ef.js'></script>
       </body>
     </html>
   );
