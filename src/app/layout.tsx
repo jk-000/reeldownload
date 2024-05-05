@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-sync-scripts */
 import { Metadata } from "next";
 import { DM_Sans as FontSans } from "next/font/google";
 
@@ -18,8 +19,10 @@ const fontSans = FontSans({
 
 export const metadata: Metadata = {
   title: "Instagram Reels Downloader — Save Reels & Videos",
-  description: "Instagram Reels Video Downloader is an amazing tool for Instagram reels video download",
-  keywords:"instagram reels video, download instagram reels, reels video download, downloading instagram reels, instagram reels downloader, reels downloader, download reels, downloading instagram, instagram video download tool"
+  description:
+    "Instagram Reels Video Downloader is an amazing tool for Instagram reels video download",
+  keywords:
+    "instagram reels video, download instagram reels, reels video download, downloading instagram reels, instagram reels downloader, reels downloader, download reels, downloading instagram, instagram video download tool",
 };
 
 export default function RootLayout({
@@ -29,10 +32,15 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" suppressHydrationWarning>
+      <head>
+      <script type='text/javascript' src='//pl23229211.highcpmgate.com/6c/7d/1f/6c7d1fc65e4afb4ea22c9a7495dc0cf6.js'></script>
+
+      <script type='text/javascript' src='//pl23229241.highcpmgate.com/6f/98/e0/6f98e07ef4829be4f8cf42eb323c78ef.js'></script>
+      </head>
       <body
         className={cn(
           fontSans.variable,
-          "bg-background overflow-x-hidden font-sans antialiased"
+          "overflow-x-hidden bg-background font-sans antialiased"
         )}
       >
         <ThemeProvider
@@ -46,6 +54,7 @@ export default function RootLayout({
             <main className="relative h-[calc(100vh-6rem)] overflow-y-auto px-2 sm:px-4">
               {children}
             </main>
+            <script type='text/javascript' src='//pl23229241.highcpmgate.com/6f/98/e0/6f98e07ef4829be4f8cf42eb323c78ef.js'></script>
             <Footer />
           </ReactQueryProvider>
         </ThemeProvider>
