@@ -64,21 +64,9 @@ export default function RootLayout({
         >
           <ReactQueryProvider>
             <Navbar />
-              <script type="text/javascript">
-	atOptions = {
-		'key' : 'f06bb6817d6a162b50e2c297644ad2bc',
-		'format' : 'iframe',
-		'height' : 60,
-		'width' : 468,
-		'params' : {}
-	};
-</script>
-<script type="text/javascript" src="//www.topcreativeformat.com/f06bb6817d6a162b50e2c297644ad2bc/invoke.js"></script>
             <main className="relative h-[calc(100vh-6rem)] overflow-y-auto px-2 sm:px-4">
               {children}
             </main>
-            <script async="async" data-cfasync="false" src="//pl23233200.highcpmgate.com/2cbb9db1a26635025fbf3df69d1d86ee/invoke.js"></script>
-<div id="container-2cbb9db1a26635025fbf3df69d1d86ee"></div>
             <Footer />
           </ReactQueryProvider>
         </ThemeProvider>
