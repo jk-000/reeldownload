@@ -68,8 +68,6 @@ export default function RootLayout({
             <Footer />
           </ReactQueryProvider>
         </ThemeProvider>
-        <script async="async" data-cfasync="false" src="//pl23233200.highcpmgate.com/2cbb9db1a26635025fbf3df69d1d86ee/invoke.js"></script>
-<div id="container-2cbb9db1a26635025fbf3df69d1d86ee"></div>
       </body>
     </html>
   );
