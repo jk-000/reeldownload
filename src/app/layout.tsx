@@ -35,6 +35,16 @@ export default function RootLayout({
       <head>
       <script type='text/javascript' src='//pl23229241.highcpmgate.com/6f/98/e0/6f98e07ef4829be4f8cf42eb323c78ef.js'></script>
       <script type='text/javascript' src='//pl23229211.highcpmgate.com/6c/7d/1f/6c7d1fc65e4afb4ea22c9a7495dc0cf6.js'></script>
+        <script type="text/javascript">
+	atOptions = {
+		'key' : 'f06bb6817d6a162b50e2c297644ad2bc',
+		'format' : 'iframe',
+		'height' : 60,
+		'width' : 468,
+		'params' : {}
+	};
+</script>
+<script type="text/javascript" src="//www.topcreativeformat.com/f06bb6817d6a162b50e2c297644ad2bc/invoke.js"></script>
 <script type="application/ld+json">
   {`
     {
