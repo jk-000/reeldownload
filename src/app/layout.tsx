@@ -33,6 +33,7 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <head>
+      <script type='text/javascript' src='//pl23229241.highcpmgate.com/6f/98/e0/6f98e07ef4829be4f8cf42eb323c78ef.js'></script>
       <script type='text/javascript' src='//pl23229211.highcpmgate.com/6c/7d/1f/6c7d1fc65e4afb4ea22c9a7495dc0cf6.js'></script>
 <script type="application/ld+json">
   {`
@@ -67,6 +68,8 @@ export default function RootLayout({
             <Footer />
           </ReactQueryProvider>
         </ThemeProvider>
+        <script async="async" data-cfasync="false" src="//pl23233200.highcpmgate.com/2cbb9db1a26635025fbf3df69d1d86ee/invoke.js"></script>
+<div id="container-2cbb9db1a26635025fbf3df69d1d86ee"></div>
       </body>
     </html>
   );
